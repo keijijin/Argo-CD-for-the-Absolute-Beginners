@@ -16,5 +16,5 @@ spec:
         app: demoapp
     spec:
       containers:
-      - image: quay.io/keijijin123 / maven-openjdk-21:latest
+      - image: quay.io/keijijin123/maven-openjdk-21:latest
         name: demoapp
